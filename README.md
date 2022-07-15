@@ -1,6 +1,7 @@
 <div align="center">
-    <img src="./public/images/thumbnail-bookmark.png" width="400px"/> 
+    <img src="./public/images/thumbnail-bookmark.png" width="800px"/> 
 </div>
 <br>
-### Bookmark
- a project lading page with tailwind CSS
+
+## Bookmark
+ a simple project landing page with tailwind CSS
