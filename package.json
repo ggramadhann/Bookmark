@@ -1,0 +1,27 @@
+{
+  "name": "bookmark",
+  "version": "1.0.0",
+  "description": "a landing page project with Tailwind CSS",
+  "main": "index.js",
+  "scripts": {
+    "build:tailwinds": "tailwind build src/style.css -o public/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ggramadhann/Bookmark.git"
+  },
+  "keywords": [
+    "tailwind",
+    "landing",
+    "page"
+  ],
+  "author": "https://github.com/ggramadhann",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ggramadhann/Bookmark/issues"
+  },
+  "homepage": "https://github.com/ggramadhann/Bookmark#readme",
+  "dependencies": {
+    "tailwindcss": "^3.1.6"
+  }
+}
